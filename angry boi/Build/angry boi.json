@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "angry boi.data.unityweb",
+"asmCodeUrl": "angry boi.asm.code.unityweb",
+"asmMemoryUrl": "angry boi.asm.memory.unityweb",
+"asmFrameworkUrl": "angry boi.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
